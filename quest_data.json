@@ -1224,9 +1224,9 @@
 		"rank":["S","S","S","S"],
 		"s_check": [[["Roma|Luigi Torelli|Maestrale|Grecale|Libeccio|Scirocco|Jervis|伊47|伊201|鈴谷|村雨|朧|曙", "同上", "同上"], [1], ""]]
 	},
-	"00": {
+	"1039": {
 		"coment":"【限定拡張作戦】Halloween海上護衛隊出撃！",
-		"name":"Limited_B",
+		"name":"Limited_B1039",
 		"times": [1, 1, 1],
 		"times_name": ["1-2","1-5","2-2"],
 		"rank":["S","S","S"],
